@@ -1,0 +1,26 @@
+
+D
+java:S4738C"'Use "java.util.Optional.empty" instead.(ƒê©8ÖÒ««©.
+>
+java:S4738"!Use "java.util.Optional" instead.(«ûˆ¡8ˆ°©«©.
+x
+java:S1488k"\Immediately return this expression instead of assigning it to the temporary variable "todo".(•ËŠ	8ÓÖ×ˆ©.
+>
+java:S4738b"!Use "java.util.Optional" instead.(Øªİ°8ˆ°©«©.
+>
+java:S4738"!Use "java.util.Optional" instead.(µáúÙ8ˆ°©«©.
+>
+java:S4738C"!Use "java.util.Optional" instead.(ƒê©8ˆ°©«©.
+O
+java:S1135"2Complete the task associated to this TODO comment.(êÜÌ®8Å©Äª.
+O
+java:S1135!"2Complete the task associated to this TODO comment.(ôİåÎ8Å©Äª.
+O
+java:S1135""2Complete the task associated to this TODO comment.(®¬¹8Å©Äª.
+T
+java:S1135#"2Complete the task associated to this TODO comment.(¼õ¹·øÿÿÿÿ8Å©Äª.
+]	java:S125"<This block of commented-out lines of code should be removed.(–úâüÿÿÿÿÿ8Å©Äª.
+X	java:S125"<This block of commented-out lines of code should be removed.(êÜÌ®8Å©Äª.
+X	java:S125!"<This block of commented-out lines of code should be removed.(ôİåÎ8Å©Äª.
+X	java:S125%"<This block of commented-out lines of code should be removed.(Üîæİ8Å©Äª.
+X	java:S125)"<This block of commented-out lines of code should be removed.(İ ’ì8Å©Äª.

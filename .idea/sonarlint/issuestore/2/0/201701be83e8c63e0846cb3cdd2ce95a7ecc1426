@@ -1,0 +1,21 @@
+
+>
+java:S4738"!Use "java.util.Optional" instead.(µáúÙ8Ä˜ÒÌ«.
+E
+java:S2789$"(Remove this null-check of an "Optional".(ÈÊÃ’8Ä˜ÒÌ«.
+J
+java:S2789."(Remove this null-check of an "Optional".(ĞõÚîıÿÿÿÿ8Ä˜ÒÌ«.
+x
+java:S1488m"\Immediately return this expression instead of assigning it to the temporary variable "todo".(•ËŠ	8Ä˜ÒÌ«.
+>
+java:S4738E"!Use "java.util.Optional" instead.(ƒê©8Ä˜ÒÌ«.
+^
+java:S1126%"AReplace this if-then-else statement by a single return statement.(ÅŸÜ8Ä˜ÒÌ«.
+>
+java:S4738d"!Use "java.util.Optional" instead.(Øªİ°8Ä˜ÒÌ«.
+D
+java:S4738E"'Use "java.util.Optional.empty" instead.(ƒê©8Ä˜ÒÌ«.
+C
+java:S4738"!Use "java.util.Optional" instead.(­–‡©ùÿÿÿÿ8Ä˜ÒÌ«.
+E
+java:S2789$"(Remove this null-check of an "Optional".(ÈÊÃ’8Ä˜ÒÌ«.

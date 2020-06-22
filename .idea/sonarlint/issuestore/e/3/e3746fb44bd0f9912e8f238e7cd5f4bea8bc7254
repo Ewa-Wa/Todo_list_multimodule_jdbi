@@ -1,0 +1,5 @@
+
+r
+java:S1206&"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ8”áëêª.
+I
+java:S47384",Use "java.util.Optional.ofNullable" instead.(Ó¦8˜¸«©.
